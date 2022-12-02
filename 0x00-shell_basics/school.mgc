@@ -1,3 +1,3 @@
 #!/bin/bash
-0 string SCHOOL school
-!:mime --mime-type -m school
+0 string SCHOOL data
+!:mime school

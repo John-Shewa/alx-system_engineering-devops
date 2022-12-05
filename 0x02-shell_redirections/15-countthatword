@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n bin /etc/passwid
+grep -c bin /etc/passwid

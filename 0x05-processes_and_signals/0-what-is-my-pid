@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-#This prints the program's procedd id.
-
-echo $$
